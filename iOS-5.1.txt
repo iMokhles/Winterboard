@@ -1,0 +1,18 @@
++[UIImage kitImageNamed:]
+__UIImageWithName
+
++[UIImage applicationImageNamed:]
+__UIApplicationImageWithName
+
+__UIApplicationImageWithName
+??
+__UIImageAtPath
+
+__UIImageWithNameInDomain
+???
+
+__UIImageWithName
+__UIPackedImageTableGetIdentifierForName
+__UIPackedImageTableGetInfoForIdentifier
+???
+__UIImageAtPath

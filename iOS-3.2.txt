@@ -1,0 +1,25 @@
++[UIImage kitImageNamed:]
+__UIImageWithName
+
++[UIImage applicationImageNamed:]
+__UIApplicationImageWithName
+
+__UIApplicationImageWithName
+??
+__UIImageAtPath
+
+__UIImageWithNameInDomain
+???
+
+__UIImageWithName
+__UISharedImageNameGetIdentifier
+__UISharedImageWithIdentifier
+???
+__UIImageAtPath
+
+_UIKeyboardImageWithName
+_UIKeyboardImageForInputModeWithName
+
+_UIKeyboardImageForInputModeWithName
+__UIImageWithNameInDomain
+__UIImageWithName

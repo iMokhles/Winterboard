@@ -1,0 +1,38 @@
++[UIImage kitImageNamed:]
++[UIImage _kitImageNamed:withTrait:]
+
++[UIImage _kitImageNamed:withTrait:]
+__UIImageWithNameAndTraitCollection
+
+__UIImageWithDeviceSpecificName
+__UIImageWithName
+
+__UIImageWithName
+__UIImageWithNameAndTraitCollection
+
+__UIImageWithNameAndTraitCollection
+-[_UIAssetManager imageNamed:withTrait:]
+
+__UIImageWithNameUsingCurrentIdiom
+-[_UIAssetManager imageNamed:withTrait:]
+
+-[_UIAssetManager imageNamed:withTrait:]
+-[_UIAssetManager imageNamed:scale:idiom:subtype:cachingOptions:sizeClassPair:attachCatalogImage:]
+
+-[_UIAssetManager imageNamed:]
+-[_UIAssetManager imageNamed:idiom:]
+
+-[_UIAssetManager imageNamed:idiom:]
+-[_UIAssetManager imageNamed:idiom:subtype:]
+
+-[_UIAssetManager imageNamed:idiom:subtype:]
+-[_UIAssetManager imageNamed:scale:idiom:subtype:]
+
+-[_UIAssetManager imageNamed:scale:idiom:subtype:]
+-[_UIAssetManager imageNamed:scale:idiom:subtype:cachingOptions:sizeClassPair:attachCatalogImage:]
+
+-[UIImageAsset imageWithTraitCollection:]
+-[_UIAssetManager imageNamed:scale:idiom:subtype:cachingOptions:sizeClassPair:attachCatalogImage:]
+
+-[_UIAssetManager imageNamed:scale:idiom:subtype:cachingOptions:sizeClassPair:attachCatalogImage:]
+???

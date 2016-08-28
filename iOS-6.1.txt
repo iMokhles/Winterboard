@@ -1,0 +1,34 @@
++[UIImage kitImageNamed:]
+__UIImageWithName
+
++[UIImage applicationImageNamed:]
+__UIApplicationImageWithName
+
+__UIApplicationImageWithName
+???
+__UIImageAtPath
+
+__UIImageWithDeviceSpecificName
+__UIImageWithName
+
+__UIImageWithName
+-[UISharedArtwork imageNamed:]
+__UIImageAtPath
+
+__UIImageWithNameInDomain
+???
+
+__UIImageWithNameUsingCurrentIdiom
+-[UISharedArtwork imageNamed:idiom:]
+
+-[UISharedArtwork imageNamed:idiom:]
+-[UISharedArtwork imageNamed:device:]
+
+-[UISharedArtwork imageNamed:]
+-[UISharedArtwork imageNamed:device:]
+
+-[UISharedArtwork imageNamed:device:]
+???
+
+-[UISharedArtwork imageNamed:scale:device:]
+???

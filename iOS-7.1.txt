@@ -1,0 +1,43 @@
++[UIImage kitImageNamed:]
+__UIImageWithName
+
++[UIImage applicationImageNamed:]
+__UIApplicationImageWithName
+
+__UIApplicationImageWithName
+???
+__UIImageAtPath
+
+__UIImageWithDeviceSpecificName
+__UIImageWithName
+
+__UIImageWithName
+-[_UIAssetManager imageNamed:]
+
+__UIImageWithNameInDomain
+???
+
+__UIImageWithNameUsingCurrentIdiom
+-[_UIAssetManager imageNamed:idiom:]
+
+-[_UIAssetManager imageNamed:]
+-[_UIAssetManager imageNamed:idiom:]
+
+-[_UIAssetManager imageNamed:idiom:]
+-[_UIAssetManager imageNamed:idiom:subtype:]
+
+-[_UIAssetManager imageNamed:idiom:subtype:]
+-[_UIAssetManager imageNamed:scale:idiom:subtype:]
+
+-[_UIAssetManager imageNamed:scale:idiom:subtype:]
+-[_UIAssetManager imageNamed:scale:idiom:subtype:cachingOptions:]
+
+-[_UIAssetManager imageNamed:scale:idiom:subtype:cachingOptions:]
+???
+
+_UIKeyboardImageWithName
+_UIKeyboardImageForInputModeWithName
+
+_UIKeyboardImageForInputModeWithName
+__UIImageWithNameInDomain
+__UIImageWithName
